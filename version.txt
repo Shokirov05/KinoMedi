@@ -1,0 +1,30 @@
+    user
+        ├── dto
+        │   ├── create.user.dto.ts         
+        │   └── update.user.dto.ts        
+        ├── interface
+        │   └── movie.interface.ts      
+        ├── schema
+        │   └── user.schema.ts      
+        ├── user.controller.ts
+        ├── user.service.ts
+        ├── user.module.ts
+        ├── me.service.ts
+        ├── me.controller.ts
+
+
+
+
+    auth
+        ├── dto
+        │   ├── login.dto.ts         
+        │   └── refresh.dto.ts        
+        │   └── register.dto.ts        
+        ├── interface
+        │   └── login.interface.ts      
+        │   └── refresh.interface.ts      
+        │   └── register.interface.ts           
+        ├── auth.controller.ts
+        ├── auth.service.ts
+        ├── auth.module.ts
+
